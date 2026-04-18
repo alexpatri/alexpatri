@@ -1,4 +1,4 @@
-<h1 align="center">Alex Jr.</h1>
+<h1 align="center">Alexsandro Jr.</h1>
 
 <p align="center">
   Software Engineer focused on backend systems, low-level programming and performance-oriented architecture.
