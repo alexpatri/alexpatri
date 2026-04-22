@@ -20,5 +20,5 @@
 <h2>About</h2>
 
 <p align="justify">
-Software Engineer with a strong interest in system-level programming, compilers and runtime design. I work on building reliable and scalable services, deepening my understanding of low-level execution, and designing clean, maintainable architectures, while also automating infrastructure and workflows through CI/CD pipelines.
+With a strong interest in system-level programming, compilers and runtime design, I build reliable and scalable services, deepen my understanding of low-level execution, and design clean, maintainable architectures, while also automating infrastructure and workflows through CI/CD.
 </p>
